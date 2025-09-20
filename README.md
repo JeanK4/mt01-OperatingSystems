@@ -19,7 +19,7 @@ El programa lee un archivo de texto con la definición de procesos, simula la ej
 ## 📑 Informe
 
 El informe completo está disponible aquí:  
-[Descargar PDF](./informe.pdf)
+[Descargar PDF](./Informe.pdf)
 
 Incluye:
 - Descripción del algoritmo de planificación MLFQ.  
